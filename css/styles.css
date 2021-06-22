@@ -1,0 +1,120 @@
+html, body {
+    max-width: 100%;
+    padding-top: 22px;
+    overflow-x: initial;
+}
+
+/* general css*/
+
+a {
+	color:white;
+	text-decoration: none;
+}
+
+a:link {
+	color:white;
+	text-decoration: none;
+}
+
+a:visited {
+	color:white;
+	text-decoration: none;
+}
+
+a:hover {
+	color:grey !important;
+}
+
+.white-text {
+    color: white;
+}
+
+.navbar {
+	background-color: black;
+}
+
+.nav-link {
+	color: white;
+}
+.nav-link:hover {
+	color: white;
+}
+
+.carousel {
+   margin: 3% auto;
+   max-width: 800px;
+}
+
+.section-title-white {
+	color: white;
+	padding: 2% 0;
+}
+
+.section-title-black {
+	color:black;
+	padding: 2% 0;
+}
+
+.link-text {
+	padding: 0 0 3% 0;
+}
+
+.link-text-black {
+	padding: 0 0 3% 0;
+	color: black;
+}
+
+.link-text-black:hover {
+	color: grey;
+}
+
+/* header */
+
+
+.header-content {
+	text-align: center;
+}
+
+.header-text {
+	margin: 3% 12% 0 12%;
+}
+
+.header-img {
+	margin: 3% auto;
+	max-width: 100%;
+}
+
+/* work */
+
+.work-content {
+	text-align: center;
+	background-color: black;
+}
+
+/* store */
+
+.store-content {
+	text-align: center;
+	background-color: white;
+}
+
+.examples-container {
+	margin: 3% 0
+}
+
+.example-img {
+	max-width: 100%;
+}
+
+/* contact */
+
+.contact-content {
+	text-align: center;
+	background-color: black;
+	margin-bottom: -57px;
+}
+
+.email-text {
+	padding: 3%;
+	color: white;
+}
